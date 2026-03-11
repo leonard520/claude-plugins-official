@@ -586,7 +586,7 @@
       },
       "homepage": "https://github.com/vercel/vercel-deploy-claude-code-plugin"
     },
-        {
+    {
       "name": "stripe",
       "description": "Stripe development plugin for Claude",
       "category": "development",
